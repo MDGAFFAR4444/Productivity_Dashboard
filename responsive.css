@@ -853,6 +853,8 @@ nav {
 
     .todo-list-fullpage h2 {
         font-size: 32px;
+        max-width: 300px;
+        line-height: 1.2;
     }
 
     .todo-list-fullpage .todo-container {
@@ -955,6 +957,8 @@ nav {
 
     .todo-list-fullpage h2 {
         font-size: 28px;
+        max-width: 300px;
+        line-height: 1.2;
     }
 
     .todo-list-fullpage .todo-container {
@@ -1120,8 +1124,8 @@ nav {
 
     .daily-planner-fullpage h2 {
         font-size: 30px;
-
         line-height: 1.2;
+        max-width: 300px;
     }
 
     .daily-planner-fullpage .day-planner {
